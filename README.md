@@ -1,7 +1,6 @@
 epsilon
 =======
 
-CRM project repo
 
 Members: Krisha Pathak, Donna Tabique, Christopher
 
