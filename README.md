@@ -1,10 +1,10 @@
 epsilon
 =======
 
-Class: CIS 355 Business Data Warehouse and Data Modeling
+**Class:** CIS 355 Business Data Warehouse and Data Modeling
 
-Members: Krisha Pathak, Donna Tabique, Christopher
+**Topic:** Chapter 10 - Customer Relationship Management
 
-Topic: Chapter 10- Customer Relationship Management
+**Team Members:** Krisha Pathak, Donna Tabique, Christopher Slater
 
-Chapter 10 Summary
+
